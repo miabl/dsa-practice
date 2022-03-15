@@ -2,3 +2,8 @@
 **/.DS_Store
 .idea
 .DS_Store
+.history
+.vscode
+**/.history
+**.zip
+**.class
