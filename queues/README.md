@@ -1,4 +1,4 @@
-# Deques_RandomizedQueues
+# Deques & Randomized Queues
 Coursera: Algorithms Part 1 - Princeton University
 
 Implement a generic data type for a deque and a randomized queue using arrays and linked lists
